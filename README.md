@@ -1,4 +1,5 @@
 # ENTREGA 1- SIMULADOR DE RESERVAS DE HOTEL.
+[LINK AL REPOSITORIO](https://github.com/mariamunoznadales/hotel_simulator.git)
 
 Este proyecto simula un sistema de reservas para un hotel de 5 estrellas. Los usuarios pueden realizar reservas, cancelarlas y consultar la disponibilidad e información detallada sobre cada habitación.
 
